@@ -1,0 +1,14 @@
+¿Cuál es el punto más débil de PGP?
+En teoría, el eslabón débil es el error humano. La validación de la clave es el punto débil, pues utilizar una clave que no sea la original implica que esta fue alterada.
+
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+Aparentemente, el cifrado simétrico es más rápido que el asimétrico. En términos de velocidad y rendimiento, es preferible el cifrado simétrico.
+Un ejemplo de la vida real suele ser para el almacenamiento de datos, cuando estos no requieren de ser transmitidos. También parece ser usado para cifrar información para transacciones.
+
+¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+Planificación: Considera los requisitos funcionales y no funcionales habituales, recopilando las entradas de seguridad de las partes interesadas.
+Desarrollo: Es cuando se realiza el sitio web, pero incorporando las mejores prácticas de seguridad para crear código que sea seguro por diseño. Además, se realizan revisiones y pruebas de código estáticas.
+Construcción: Con Secure SDLC se espera que los procesos para compilar software también sean monitoreados para garantizar seguridad.
+Pruebas: Las pruebas se hacen constantemente durante su desarrollo y construcción, y ahora incluyen la garantía de que todos los sistemas de seguridad se han cumplido.
+Lanzamiento e implementación: También se realizan pruebas durante el lanzamiento o implementación del software con herramientas de monitoreo y escaneo.
+
